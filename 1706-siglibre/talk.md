@@ -8,15 +8,6 @@ Jorge Sanz · Santiago Higuera
 
 ---
 
-# Agenda
-
-- Historia de AESIG
-- Historia de Geoinquietos
-- Por qué Geoinquietos se interesa en AESIG
-- Qué se puede esperar de AESIG
-
----
-
 # AESIG
 ___
 
@@ -63,6 +54,7 @@ ___
 * Primer grupo: Geoinquiets
 * Otras ciudades en España e Iberoamérica se suman
 
+<img src="imgs/lorenzo.jpg" alt="" style="width:50%">
 ___
 
 <img src="imgs/geoinquietos_mapa.png" alt="Mapa geoinquietos">
@@ -77,22 +69,34 @@ ___
 
 ---
 
-## Geoinquietos & AESIG
+# Geoinquietos & AESIG
+
+___
+
+## Inicios de 2016...
 
 > G: Necesitamos una entidad legal
 
 > G: Vamos a escribir a AESIG <br/>
 > a ver qué pasa <!-- .element class="fragment" -->
 
-> A: ¡Venid! <!-- .element class="fragment" -->
+___
 
----
+## Inicios de 2016...
+
+<img src="imgs/micho.png" alt="">
+
+> ¡Venid! <!-- .element class="fragment" -->
+
+___
 
 ## Nueva junta
 
+Septiembre de 2016
+
 <img src="imgs/junta.png" alt="" style="width:90%">
 
----
+___
 
 ## En qué estamos trabajando
 
@@ -100,8 +104,9 @@ ___
 * Normalizar tesorería <!-- .element class="fragment" -->
 * Actualizar estatutos <!-- .element class="fragment" -->
 * Plan de actividades <!-- .element class="fragment" -->
+* Jornada sobre SIG en IGN y CARTO (Diciembre 2016) <!-- .element class="fragment" -->
 
----
+___
 
 ## Qué esperar de AESIG
 
