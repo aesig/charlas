@@ -6,6 +6,8 @@ Jorge Sanz · Santiago Higuera
 
 <img src="imgs/banner_jornadas.png" class="noborder" width="100%" alt="banner jornadas">
 
+http://bit.ly/170601-aesig
+
 ---
 
 # AESIG
@@ -125,9 +127,6 @@ ___
 
 contacto.aesig@gmail.com
 
-Jorge Sanz · Santiago Higuera
+<img src="imgs/banner_jornadas.png" class="noborder" width="100%" alt="banner jornadas">
 
-
-
-2017-06-01
-
+http://bit.ly/170601-aesig
