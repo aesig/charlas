@@ -41,7 +41,6 @@ ___
 * Foro de debate
 * Normalizar los SIG
 * SIG + instituciones
-* Promoción SIG
 * Favorecer I+D en SIG
 
 ---
@@ -116,7 +115,6 @@ ___
 * Foro de debate ??
 * Normalizar los SIG ??
 * SIG + instituciones ??
-* Promoción SIG ??
 * Favorecer I+D en SIG ??
 * ???  <!-- .element class="fragment" -->
 
